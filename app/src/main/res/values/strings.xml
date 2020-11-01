@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BM HR</string>
+    <string name="version_code">1.0.1</string>
+    <string name="brandName"><![CDATA[Powered by \n Genuine Technology & Research Limited]]></string>
+    <string name="android_version">App Version</string>
+    <string name="menu_bar">Menu</string>
+</resources>
